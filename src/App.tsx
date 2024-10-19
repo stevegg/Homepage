@@ -37,7 +37,8 @@ function App() {
         <p>HI THERE, THIS WORKED!!!</p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more (THIS WAS UPDATED)
+        Click on the Vite and React logos to learn more (Another change to test
+        deployment)
       </p>
     </>
   );
