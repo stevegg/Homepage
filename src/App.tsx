@@ -34,7 +34,7 @@ function App() {
           {/* The count text. */}
           count is: {count}
         </button>
-        <p>HI THERE, THIS WORKED!!!</p>
+        <p>HI THERE, THIS WORKED I THINK!!!</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more (Another change to test
