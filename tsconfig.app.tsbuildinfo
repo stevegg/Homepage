@@ -1,1 +1,1 @@
-{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/__tests__/App.test.tsx","./src/__tests__/setup.ts"],"version":"5.6.3"}
+{"root":["./src/App.tsx","./src/BookMark.tsx","./src/BookmarkImage.tsx","./src/BookmarkType.ts","./src/main.tsx","./src/vite-env.d.ts","./src/__tests__/App.test.tsx","./src/__tests__/setup.ts"],"version":"5.6.3"}

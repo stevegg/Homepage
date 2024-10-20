@@ -1,4 +1,4 @@
-import React, { FC } from 'react';
+import { FC } from 'react';
 import Coolify from '../public/coolify.png';
 import Proxmox from '../public/Proxmox.png';
 import TrueNAS from '../public/TrueNAS.png';

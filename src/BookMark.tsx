@@ -1,4 +1,4 @@
-import React, { FC } from 'react';
+import { FC } from 'react';
 import Card from '@mui/joy/Card';
 import AspectRatio from '@mui/joy/AspectRatio';
 import Typography from '@mui/joy/Typography';
