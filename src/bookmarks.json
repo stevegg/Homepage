@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Ralph",
+    "type": "Proxmox",
+    "tags": ["Infrastructure", "10 inch Rack"],
+    "url": "https://rascal.wellmadesoftware.com",
+    "description": "Lower Computer in 10 inch Rack"
+  },
+  {
+    "name": "Rascal",
+    "type": "Proxmox",
+    "tags": ["Infrastructure", "10 inch Rack"],
+    "url": "https://rascal.wellmadesoftware.com",
+    "description": "Upper Computer in 10 inch Rack"
+  },
+  {
+    "name": "Randy",
+    "type": "Proxmox",
+    "tags": ["Infrastructure", "Furnace Room"],
+    "url": "https://randy.wellmadesoftware.com",
+    "description": "AI Computer in furnace room"
+  },
+  {
+    "name": "NAS",
+    "type": "TrueNAS",
+    "tags": ["Infrastructure", "Furnace Room"],
+    "url": "https://nas.wellmadesoftware.com",
+    "description": "NAS in furnace room"
+  },
+  {
+    "name": "Coolify",
+    "type": "Coolify",
+    "tags": ["Infrastructure", "LXC", "FaaS", "PaaS"],
+    "url": "https://coolify.wellmadesoftware.com",
+    "description": "FaaS/Paas"
+  },
+  {
+    "name": "Amp Game Server",
+    "type": "Amp",
+    "tags": ["Gaming", "VM"],
+    "url": "https://amp.wellmadesoftware.com",
+    "description": "Gaming Server"
+  },
+  {
+    "name": "Home Assitant",
+    "type": "HomeAssistant",
+    "tags": ["Home", "VM"],
+    "url": "https://homeassistant.wellmadesoftware.com",
+    "description": "Home Assistant"
+  },
+  {
+    "name": "Ollama",
+    "type": "Ollama",
+    "tags": ["AI", "LXC"],
+    "url": "https://ollama.wellmadesoftware.com",
+    "description": "AI LXC host for Ollama"
+  },
+  {
+    "name": "Silver Bullet Notes",
+    "type": "SilverBullet",
+    "tags": ["Notes", "VM"],
+    "url": "https://notes.wellmadesoftware.com",
+    "description": "Silver Bullet Notes"
+  }
+]
