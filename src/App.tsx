@@ -13,6 +13,7 @@ function App() {
 
   return (
     <div id="root">
+      <div className="heading">Steve's COOL Homelab Bookmarks</div>
       <Grid container gap={2}>
         {bookmarks}
       </Grid>
